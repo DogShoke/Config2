@@ -1,4 +1,5 @@
 Depviz Stage 1 - CSV-configurable CLI Prototype
+Вариант 9
 
 Описание проекта:
 -----------------
