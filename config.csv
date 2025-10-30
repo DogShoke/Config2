@@ -1,0 +1,7 @@
+key,value
+package_name,example-package
+repo_url_or_path,https://github.com/example/example-package.git
+test_repo_mode,none
+output_image,graph.png
+ascii_mode,tree
+max_depth,3
